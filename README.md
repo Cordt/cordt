@@ -13,5 +13,6 @@ At heart, I am still a developer, spending much of my free time on functional Sw
 
 Do you need help building a technically challenging product? Let's talk!
 - ✉️ [Contact me](mailto:cordt@zermin.de)
+- 🔗 [Learn more about my work](https://zpm.zermin.de)
 
 ---
