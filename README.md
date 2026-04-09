@@ -1,18 +1,13 @@
-### Hi there 👋, I'm Cordt, a Technical Product Manager from Germany
+# Hi, I'm Cordt
 
-I am passionate about leveraging technology to build products that solve real customer problems, create business value and are delightful to use.
-At heart, I am still a developer, spending much of my free time on functional Swift.
+I build software that does one thing well and stays out of the way.
 
-- 🚧 Building [Lentil](https://github.com/Cordt/Lentil), a native iOS Client for Lens Protocol
-- 🌱 Learning functional Swift at [PointFree](https://www.pointfree.co)
-- 🗺 Love traveling the world with my wife, writing about it on [Isle of Nomads](https://isleofnomads.com)
+Right now I'm building [Rymi](https://rymi.app) - a daily commitment tool for macOS and iOS. Not a productivity system. A tool for deciding what matters each morning and following through.
 
----
+I write [Manual](https://paragraph.com/@manual) - essays about commitment, focus, and how tools shape the way people work.
 
-👨‍💻 Open to work
+I care about software that respects the people who use it. Small surface area, clear purpose, no configuration for its own sake.
 
-Do you need help building a technically challenging product? Let's talk!
-- ✉️ [Contact me](mailto:cordt@zermin.de)
-- 🔗 [Learn more about my work](https://zpm.zermin.de)
-
----
+- [rymi.app](https://rymi.app)
+- [Manual on Paragraph](https://paragraph.com/@manual)
+- [Bluesky](https://bsky.app/profile/cordt.zermin.de)
